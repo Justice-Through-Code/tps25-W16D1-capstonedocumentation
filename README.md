@@ -45,7 +45,12 @@ Understanding Documentation Levels:
 
     "Documentation exists at multiple levels, each serving different audiences and purposes:"
         Code-level documentation (docstrings, comments) - For developers
+            Purpose: To explain what the code does, how it works, and why certain decisions were made
         API documentation - For developers using your code
+            Purpose: To describe how to interface with your code, typically from the outside
         User documentation - For end-users of your application
+            Purpose: To help users understand how to install, use, and troubleshoot the software
         System documentation - For understanding architecture
+            Purpose: To provide a high-level understanding of how the system is structured and how components interact
         Process documentation - For maintenance and deployment
+            Purpose: To describe the processes required for deploying, updating, and maintaining the system
