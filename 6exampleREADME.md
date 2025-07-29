@@ -133,6 +133,8 @@ Charts not rendering
     Update matplotlib: pip install --upgrade matplotlib
     Check for graphics driver updates
     Try changing the matplotlib backend in settings
+
+    
 Getting Help
 If you encounter issues:
     Check the FAQ
